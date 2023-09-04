@@ -255,7 +255,7 @@ a:hover {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(rgba(41, 55, 255, .95), rgba(8, 23, 228, .95)), url(img/hero-bg.jpg);
+    background: linear-gradient(rgba(61, 69, 173, 0.95), rgba(105, 65, 26, 0.95)), url(img/hero-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover
